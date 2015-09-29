@@ -4,3 +4,4 @@ git
 git master test
 git test
 git tt
+git success
